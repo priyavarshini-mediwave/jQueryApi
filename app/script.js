@@ -105,4 +105,3 @@ function displayName(dogBreed) {
   const dogImage = $("#dogImage");
   dogName.insertBefore(dogImage);
 }
-
